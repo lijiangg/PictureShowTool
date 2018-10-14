@@ -6,4 +6,4 @@
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
-![image](https://github.com/lijiangg/PictureShowTool/Untitled.gif) 
+![image](https://github.com/lijiangg/PictureShowTool/blob/master/Untitled.gif) 
